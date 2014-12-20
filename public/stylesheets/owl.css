@@ -1,0 +1,18 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#owl-demo .item{
+  margin: 3px;
+}
+
+#owl-demo .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+  text-align:center;
+}
